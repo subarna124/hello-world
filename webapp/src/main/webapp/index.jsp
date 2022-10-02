@@ -9,5 +9,6 @@
     <p>Sydney is a beautiful city to travel to</p>
 <p>Continious integration of the code in VMware</p>
 <p>Finally some sunny day today</p>
+<p>Today is going well</p>
    </div>
 
