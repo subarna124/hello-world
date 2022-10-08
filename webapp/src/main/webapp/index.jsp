@@ -10,5 +10,6 @@
 <p>Continious integration of the code in VMware</p>
 <p>Finally some sunny day today</p>
 <p>Today is going well. How are you today ? I am good thank you and how was your trip to Nepal?</p>
+<p>Sydney is a beautiful city</p>       
    </div>
 
